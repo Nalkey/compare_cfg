@@ -14,7 +14,7 @@ from tkinter.filedialog import *
 
 __Author__ = 'Yuanhao Wu'
 __version__ = '1.1'
-__time__ = '2017-03-21'
+__time__ = '2017-07-01'
 __email__ = 'yuanhao.wu@ericsson.com'
 
 
